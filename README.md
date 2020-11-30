@@ -1,2 +1,2 @@
 # WNT
-Wireshark Network Troubleshooting
+Wireshark Network Troubleshooting sample capture files and exercises
